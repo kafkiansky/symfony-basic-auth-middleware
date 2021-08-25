@@ -22,6 +22,12 @@
 composer require kafkiansky/symfony-basic-auth-middleware
 ```
 
+This package works with `kafkiansky/symfony-middleware`, install it too, if didn't before:
+
+```shell
+composer require kafkiansky/symfony-middleware
+```
+
 ## Configuration
 
 You can configure user, password, realm and excluded paths, if you want:
