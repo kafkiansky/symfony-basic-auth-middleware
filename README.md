@@ -110,4 +110,3 @@ $ composer test
 ## License
 
 The MIT License (MIT). See [License File](LICENSE.md) for more information.
-
