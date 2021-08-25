@@ -2,6 +2,13 @@
     "name": "kafkiansky/symfony-basic-auth-middleware",
     "description": "Basic Auth PSR-15 middleware for Symfony framework.",
     "type": "library",
+    "keywords": [
+        "psr-15",
+        "symfony",
+        "middleware",
+        "basic",
+        "http"
+    ],
     "require": {
         "php": "^8.0",
         "psr/http-server-middleware": "^1.0",
